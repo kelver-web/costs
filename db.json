@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "name": "Barbearia",
+      "budget": 15000,
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Fazer o Dsign do projeto",
+          "cost": "5000",
+          "description": "Contratar um Dsigner para criação do layout do projeto",
+          "id": "ccb4e243-714d-4001-93a0-30df813cf953"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Pizzaria",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Sandwicheria",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 7000,
+      "services": [
+        {
+          "name": "Desenvolvimento",
+          "cost": "5000",
+          "description": "Contratar um dev Python",
+          "id": "3716c439-b9c7-421e-bf7a-32b6f587c672"
+        },
+        {
+          "name": "Dsign",
+          "cost": "2000",
+          "description": "Contratar um Dsigner para criação do layout do projeto",
+          "id": "709934ab-4828-49c4-afda-9fbb942eff93"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Dsign"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

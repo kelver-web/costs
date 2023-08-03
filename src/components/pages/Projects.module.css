@@ -1,0 +1,17 @@
+.project_container {
+    padding: 2em;
+}
+
+.project_title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.load_center {
+    margin: 0 auto;
+}
+
+.load_center p {
+    font-weight: bold;
+}
